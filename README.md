@@ -5,7 +5,7 @@
 
 <main>
 <section>
-<h2>Who i am and what I Do</h2>
+<h2>Who I am and what I Do.</h2>
 <p>
 
 
@@ -111,8 +111,8 @@ Automated BI Platform
 <p>If you're looking for a data engineer who builds scalable, modern pipelines and never stops learning; reach out below:</p>
 <ul>
 <li>Email: <a href="fabrices1996@gmail.com">fabrices1996@gmail.com</a></li>
-<li>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></li>
-<li>GitHub: <a href="https://github.com/yourgithub" target="_blank">github.com/yourgithub</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/fabrice-selemani-325589187?" target="_blank">https://www.linkedin.com/in/fabrice-selemani-325589187?</a></li>
+<li>GitHub: <a href="https://github.com/fabriceselemani" target="_blank">https://github.com/fabriceselemani</a></li>
 </ul>
 </section>
 </main>
