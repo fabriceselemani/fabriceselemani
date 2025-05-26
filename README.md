@@ -5,7 +5,7 @@
 
 <main>
 <section>
-<h2>What I Do</h2>
+<h2>Who i am and what I Do</h2>
 <p>
 
 
